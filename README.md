@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JiinYang01%20GitHub%20👋&animation=twinkling&fontSize=20&fontAlignY=20&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JiinYang01%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=20&fontAlign=70&height=250)
 
 
 ![JiinYang01's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiinYang01&show_icons=true&theme=radical)
